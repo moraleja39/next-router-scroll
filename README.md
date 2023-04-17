@@ -1,18 +1,12 @@
 # next-router-scroll
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][build-status-image]][build-status-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][build-status-image]][build-status-url]
 
-[npm-url]:https://npmjs.org/package/@moxy/next-router-scroll
-[downloads-image]:https://img.shields.io/npm/dm/@moxy/next-router-scroll.svg
-[npm-image]:https://img.shields.io/npm/v/@moxy/next-router-scroll.svg
-[build-status-url]:https://github.com/moxystudio/next-router-scroll/actions
-[build-status-image]:https://img.shields.io/github/workflow/status/moxystudio/next-router-scroll/Node%20CI/master
-[codecov-url]:https://codecov.io/gh/moxystudio/next-router-scroll
-[codecov-image]:https://img.shields.io/codecov/c/github/moxystudio/next-router-scroll/master.svg
-[david-dm-url]:https://david-dm.org/moxystudio/next-router-scroll
-[david-dm-image]:https://img.shields.io/david/moxystudio/next-router-scroll.svg
-[david-dm-dev-url]:https://david-dm.org/moxystudio/next-router-scroll?type=dev
-[david-dm-dev-image]:https://img.shields.io/david/dev/moxystudio/next-router-scroll.svg
+[npm-url]:https://npmjs.org/package/@moraleja39/next-router-scroll
+[downloads-image]:https://img.shields.io/npm/dm/@moraleja39/next-router-scroll.svg
+[npm-image]:https://img.shields.io/npm/v/@moraleja39/next-router-scroll.svg
+[build-status-url]:https://github.com/moraleja39/next-router-scroll/actions
+[build-status-image]:https://img.shields.io/github/actions/workflow/status/moraleja39/next-router-scroll/node-ci.yml?branch=master
 
 Take control of when scroll is updated and restored in your Next.js projects.
 

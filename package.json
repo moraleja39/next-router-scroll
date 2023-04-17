@@ -1,5 +1,5 @@
 {
-  "name": "@moxy/next-router-scroll",
+  "name": "@moraleja39/next-router-scroll",
   "version": "2.2.1",
   "description": "Take control of when scroll is updated and restored in your Next.js projects",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
     "lib",
     "es"
   ],
-  "homepage": "https://github.com/moxystudio/next-router-scroll#readme",
+  "homepage": "https://github.com/moraleja39/next-router-scroll#readme",
   "author": "Afonso Reis <antonio.reis@moxy.studio>",
   "license": "MIT",
   "keywords": [
@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moxystudio/next-router-scroll.git"
+    "url": "git+https://github.com/moraleja39/next-router-scroll.git"
   },
   "bugs": {
-    "url": "https://github.com/moxystudio/next-router-scroll/issues"
+    "url": "https://github.com/moraleja39/next-router-scroll/issues"
   },
   "scripts": {
     "dev": "onchange -i -k  \"src\" -- npm run build",
@@ -62,7 +62,7 @@
     "@moxy/jest-config-testing-library": "^6.1.0",
     "@moxy/jest-config-web": "^6.1.0",
     "@moxy/postcss-preset": "^4.5.2",
-    "@testing-library/react": "^12.0.0",
+    "@testing-library/react": "^14.0.0",
     "browser-resolve": "^2.0.0",
     "commitlint": "^12.0.1",
     "cross-env": "^7.0.3",
@@ -70,10 +70,10 @@
     "husky": "^4.3.8",
     "jest": "^26.6.3",
     "lint-staged": "^11.0.0",
-    "next": "^12.0.0",
+    "next": "^13.3.0",
     "onchange": "^7.1.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "standard-version": "^9.3.0"
   }
 }
