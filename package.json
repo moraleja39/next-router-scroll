@@ -1,6 +1,6 @@
 {
   "name": "@moxy/next-router-scroll",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Take control of when scroll is updated and restored in your Next.js projects",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -38,9 +38,9 @@
     "postrelease": "git push --follow-tags origin HEAD && npm publish"
   },
   "peerDependencies": {
-    "next": ">=9 <13",
-    "react": ">=16.8.0 <18",
-    "react-dom": ">=16.8.0 <18"
+    "next": ">=9 <14",
+    "react": ">=16.8.0 <19",
+    "react-dom": ">=16.8.0 <19"
   },
   "dependencies": {
     "history": "^3.0.0",
