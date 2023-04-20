@@ -1,5 +1,7 @@
 # next-router-scroll
 
+> Note: this fork just updates peer dependencies so this library works with `next^13` and `react^18`. Existing tests pass with those versions.
+
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][build-status-image]][build-status-url]
 
 [npm-url]:https://npmjs.org/package/@moraleja39/next-router-scroll
