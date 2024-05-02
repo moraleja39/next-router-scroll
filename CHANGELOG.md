@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.3](https://github.com/moraleja39/next-router-scroll/compare/v2.2.2...v2.2.3) (2024-05-02)
+
 ### [2.2.2](https://github.com/moraleja39/next-router-scroll/compare/v2.2.0...v2.2.2) (2023-04-17)
 
 ## [2.2.0](https://github.com/moxystudio/next-router-scroll/compare/v2.1.1...v2.2.0) (2021-06-24)
