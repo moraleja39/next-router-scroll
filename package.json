@@ -38,7 +38,7 @@
     "postrelease": "git push --follow-tags origin HEAD && npm publish"
   },
   "peerDependencies": {
-    "next": ">=9 <14",
+    "next": ">=9 <15",
     "react": ">=16.8.0 <19",
     "react-dom": ">=16.8.0 <19"
   },
@@ -70,10 +70,10 @@
     "husky": "^4.3.8",
     "jest": "^26.6.3",
     "lint-staged": "^11.0.0",
-    "next": "^13.3.0",
+    "next": "^14.2.3",
     "onchange": "^7.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "standard-version": "^9.3.0"
   }
 }
