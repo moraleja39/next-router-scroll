@@ -46,7 +46,7 @@ const useScrollBehavior = (shouldUpdateScroll) => {
     return scrollBehaviorRef.current;
 };
 
-const ScrollBehaviorProvider = ({ disableNextLinkScroll, shouldUpdateScroll, children }) => {
+const ScrollBehaviorProvider = ({ disableNextLinkScroll = true, shouldUpdateScroll = () => true, children }) => {
     // Disable next <Link> scroll or not.
     useDisableNextLinkScroll(disableNextLinkScroll);
 
@@ -65,11 +65,6 @@ const ScrollBehaviorProvider = ({ disableNextLinkScroll, shouldUpdateScroll, chi
             { children }
         </Provider>
     );
-};
-
-ScrollBehaviorProvider.defaultProps = {
-    shouldUpdateScroll: () => true,
-    disableNextLinkScroll: true,
 };
 
 ScrollBehaviorProvider.propTypes = {
