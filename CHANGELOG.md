@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.4](https://github.com/moraleja39/next-router-scroll/compare/v2.2.3...v2.2.4) (2024-11-27)
+
+
+### Bug Fixes
+
+* removed deprecated component defaultProps ([41a2a44](https://github.com/moraleja39/next-router-scroll/commit/41a2a44139a2a8648fda1a56c82efd731be51061))
+
 ### [2.2.3](https://github.com/moraleja39/next-router-scroll/compare/v2.2.2...v2.2.3) (2024-05-02)
 
 ### [2.2.2](https://github.com/moraleja39/next-router-scroll/compare/v2.2.0...v2.2.2) (2023-04-17)
